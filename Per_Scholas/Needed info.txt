@@ -1,0 +1,10 @@
+Product:
+Product id, product name, product cost, shipping cost(product weight and size?).
+
+User:
+Id, name, payment info, owned product total cost.
+
+Owned products:
+Product id, user id.
+
+Product can be bought using payment info, after checking if it's worth shipping when this new item is added to the users owned products, using the total owned product profit minus the total shipping cost.

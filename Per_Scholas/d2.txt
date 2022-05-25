@@ -1,0 +1,73 @@
+4/7/2022
+alijah julian chandler
+04/28/1996
+19 w 2nd st media, pa, 19063
+484-832-3872
+ajchandler39@gmail.com
+male
+white
+some college
+12
+Penncrest Highschool, 2011-2013
+Open Connections, 2013-2015
+Delaware County Community College, 2019-2021
+
+D
+a.
+No
+b.
+None
+c.
+No
+d.
+No
+e.
+No
+
+Wawa
+610-358-8000
+Jan 2016 - March 2020
+Red Roof 260 West Baltimore Pike Wawa, PA 19063 United States
+Food Service
+CSA, Customer Service Associate.
+$14, 20-40
+Provided customer service, prepared food and beverages, operated register, restocked packaged goods. 
+Quit to seek better educational and work oppertunities
+
+Optum
+$20/hour
+Entry level, IT.
+Full-Time.
+Yes and yes.
+4/7/2022
+Yes, yes, yes, yes.
+
+Microsoft office suite experience, general computer and internet navigation,
+extensive experience communicatiing with and serving customers,
+SQL, NoSQL, Java, Spring, Javascriupt/html/css, React
+Coding experience on difficult problems and experience in sports strategy.
+
+High Honors in college.
+
+Hurricane Katrena and other fundraising.
+
+I attend a BJJ and Zen school.
+
+Several on Github.
+
+
+
+
+
+
+
+user
+team
+match (finished = true/false)
+
+
+NONE DETERMINISTIC depends on the state of the table whereas deterministic doesn't?
+outside resource?
+outside the function
+
+the result depend

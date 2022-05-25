@@ -1,0 +1,8 @@
+DIFFERENCE BETWEEN REplace and set productDesc = 'about' where productDesc = 'abuot'.
+
+
+join with one to many relationship
+
+join one to many then group by?
+
+a subquery returns a resultset that's used by another query.

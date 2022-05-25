@@ -1,0 +1,49 @@
+Favorite:
+ techId
+ username
+
+Message:
+ id
+ username
+ datePosted
+ contents
+ recipient
+
+Technique:
+ id
+ username
+ name
+ type
+ video
+ description
+
+User:
+ username
+ password
+ firstName
+ lastName
+ email
+
+
+Library:
+ Get all user favorites.
+ Get all foreign user favorites when foreign user searched by first and last name.
+ Delete user favorite.
+ Delete user technique.
+Forum:
+ Get all the top techniques.
+ Post new user favorite.
+Form:
+ Post new user technique.
+ Post new favorite.
+About:
+ None needed.
+DevBlog:
+ Get all messages with "devblog" as its recipient.
+Feedback:
+ Post messages with "feedback" as its recipient.
+Login:
+ Select all user details where the username and password match a user.
+ Post new user.
+Error
+ None needed.

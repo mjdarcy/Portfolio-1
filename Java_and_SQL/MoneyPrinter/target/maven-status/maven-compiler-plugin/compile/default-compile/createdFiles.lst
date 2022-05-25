@@ -1,0 +1,6 @@
+com\moneyprinter\MoneyPrinter.class
+com\moneyprinter\UserData$Stock.class
+com\moneyprinter\SeleniumApiCustom.class
+com\moneyprinter\PlaidApiCustom.class
+com\moneyprinter\AlpacaApiCustom.class
+com\moneyprinter\UserData.class

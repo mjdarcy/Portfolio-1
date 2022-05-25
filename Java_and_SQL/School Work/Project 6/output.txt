@@ -1,0 +1,60 @@
+Nodes of doubly linked list: 
+Jack Sparrow 555-736-1346 
+Hector Barbossa 555-516-2846 
+Joshamee Gibbs 555-357-8967 
+Will Turner 555-123-2634 
+Elizabeth Swann 555-622-7423 
+Beth Swann 555-622-4756 
+
+Enter search item (or q to quit):
+555
+Searching forwards...
+Beth Swann 555-622-4756
+Elizabeth Swann 555-622-7423
+Hector Barbossa 555-516-2846
+Jack Sparrow 555-736-1346
+Joshamee Gibbs 555-357-8967
+Will Turner 555-123-2634
+
+Enter search item (or q to quit):
+swann
+Searching backwards...
+Beth Swann 555-622-4756
+Elizabeth Swann 555-622-7423
+
+Enter search item (or q to quit):
+jack
+Searching forwards...
+Jack Sparrow 555-736-1346
+
+Enter search item (or q to quit):
+(555)-736-1346
+Searching backwards...
+Jack Sparrow 555-736-1346
+
+Enter search item (or q to quit):
+sfdjiosdafiojfdsaijo
+Searching forwards...
+
+No search results found...
+Enter search item (or q to quit):
+        jack        
+Searching backwards...
+Jack Sparrow 555-736-1346
+
+Enter search item (or q to quit):
+JaCk
+Searching forwards...
+Jack Sparrow 555-736-1346
+
+Enter search item (or q to quit):
+j0shamee
+Searching backwards...
+
+No search results found...
+Enter search item (or q to quit):
+j0oshamee
+Searching forwards...
+Joshamee Gibbs 555-357-8967
+
+Enter search item (or q to quit):

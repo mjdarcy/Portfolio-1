@@ -1,0 +1,80 @@
+--------------------------------------------------------------------------------
+Group 1 - Alijah, Nina, Kayla, Abdullah, Kahlil.
+
+Behavioral:
+1. Tell me about a time you had conflict with your manager and how you resolved it.
+2. How would your manager describe you?
+3. Tell me about a time you had to urgently resolve an issue.
+4. How would you manage work-life balance if asked to work from home?
+
+Technical:
+1. How did you learn to code and what project are you most proud of?
+2. How do you debug your code?
+3. Do you bring any unique skills to this position?
+4. How would you describe our product to someone who doesn't speak tech?
+5. What would you do to ensure you provided accurate project time estimates?
+6. What are the advantages and disadvantages of working in an agile environment?
+7. What's the difference between JDK JRE and JVM?
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+1. Describe your career goals and interests. Why did you set these goals? How did you become interested in these things?
+
+My career goals are to build a healthy career by becoming proficent in a challenging work environment,
+then moving into a leadership postion, in a company that has a tangible effect on the world.
+This would be a new kind of professional environment for me, so I look forward to learning new work flows and fostering new relationships.
+
+I set these goals because I see investment in my career as the top of the list for what will move my life forward.
+My previous jobs have felt like renting instead of owning property.
+
+I've always had a passion for creative persuits and problem solving, and love seeing the way problems
+can be solved elegantly with code and seeing those solutions play out in the real world. I saw the potential
+and gained interest in this while creating small games within a robust editor of a video game from the 2000s. The same
+editor has been responsible for the creation of some of the most popular current video games
+and being a part of that history helped me feel a part of a community and has sparked my interest in noticing techs ability to have real influence in the world.
+
+a. What have you done to date to pursue these goals?
+I've been making sure to always be learning about new topics or working on a project. Consistency has been my primary goal.
+I've been reading and answering practice problems or working on projects, most of which are on my Github.
+I also got my associates in Comp Sci.
+I've also been applying to jobs daily, which lead me to Per Scholas.
+
+b. What successes have you had along the way?
+I worked to graduate with an associates. I received all As my first semester, and got all As in my Comp Sci classes.
+I received some meaningful compliments from teachers, such as being called a good student from my english comp teacher.
+
+c. What obstacles have you faced?
+Unindeal living situations at points and being totally new to parts of the field.
+
+d. What have you done to overcome those?
+Made the best of it and made sure to maintain healthy relationships, utilize teachers knowledge as much as possible
+through paying attention and asking questions, and do research on my own.
+
+2. What technology or programming language(s) are you most comfortable using? (Think—previous experience in dev space)
+Java, MySQL, React(html, javascript, css), in that order. I know some of others but these are my strongest.
+
+3. What steps did you take to learn this technology – describe your journey? 
+I started by taking web development classes, then worked on some small projects and practice problems, then 
+worked on my associates degree which solidified some more theoretical CS concepts. I read ahead and completed
+the text book that was assigned for all my Java courses since I was comfortable with a lot of what 
+was being taught already, ending up doing about double the work.
+
+4. What is something that excites you currently?
+The idea of becoming proficent in the skills needed to succeed in this career, and the fact that I'll be 
+able to be consulted with as an expert. I'm also very excited to get to know the kind of new
+people I see myself having a lot of respect for.
+
+5. Why are you a great fit for this role? (Think—how do you sell yourself for this position. Elevator pitch)
+I've aimed to involve myself with Per Scholas as much as possible, a partner to Optum. I'm very eager
+to start my career and invest myself in a company with growth oppertunities. I'm dependable, positive, constructive,
+and want to learn as much about the technologies, healthcare field, and culture, at Optum as I can.

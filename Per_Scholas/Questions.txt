@@ -1,0 +1,1 @@
+Do java data structures need to be repopulated upon server restart? So restart would be something like N log N even if the DS is log N.

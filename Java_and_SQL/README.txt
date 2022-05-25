@@ -1,0 +1,1 @@
+In this folder are all Spring starter projects, made with a a theme of my choosing instead of the default to increase retention.
