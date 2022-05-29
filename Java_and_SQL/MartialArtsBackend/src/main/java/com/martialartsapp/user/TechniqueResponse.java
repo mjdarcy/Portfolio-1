@@ -1,4 +1,4 @@
-package com.martialartsapp.technique;
+package com.martialartsapp.user;
 
 import java.util.Arrays;
 
@@ -15,6 +15,7 @@ public class TechniqueResponse
 	@Lob
 	private byte[] video;
 	long n;
+	
 	public TechniqueResponse(String name)
 	{
 		this.name = name;

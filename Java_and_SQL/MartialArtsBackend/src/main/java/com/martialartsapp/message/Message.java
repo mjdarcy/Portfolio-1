@@ -10,8 +10,6 @@ import javax.persistence.Id;
 @Entity
 public class Message {
 	
-	//I can have page numbers then get a set of pages.
-	//i.e. page 1, 1-10, page 2, 10-20
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	int id;
@@ -19,7 +17,7 @@ public class Message {
 	Date datePosted;
 	String contents;
 	String recipient;
-	//for blog posts, recipient = "blog".
+	
 	public Message() {
 		
 	}

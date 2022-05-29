@@ -16,11 +16,7 @@ export default class App extends React.Component
     this.state = 
     {
       apiUrl: "http://localhost:8080/api",
-      currPath: window.location.pathname,
-      style:
-      {
-        borderStyle: "solid"
-      }
+      currPath: window.location.pathname
     }
   }
 

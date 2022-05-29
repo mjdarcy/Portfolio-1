@@ -21,10 +21,6 @@ export default class Library extends React.Component
             video: "",
             rating: 1
         },
-        style:
-        {
-            borderStyle: "solid"
-        },
         data:{ }
     }
     this.setSelectedTechnique = this.setSelectedTechnique.bind(this);
@@ -77,7 +73,7 @@ export default class Library extends React.Component
     {
         let page = "Library";
         return(
-        <div style={this.state.style}>
+        <div>
             <NavBar page={page}/>
             <TechList apiUrl={this.props.apiUrl} setSelectedTechnique={this.setSelectedTechnique} getTechniques={this.getAllUserFavorites} page={page}/>
             <TechVideo videoUrl={this.props.apiUrl + "/technique/video/" + this.state.selectedTechnique.id}/>

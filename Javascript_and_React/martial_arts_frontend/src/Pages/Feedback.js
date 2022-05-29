@@ -9,10 +9,6 @@ export default class Feedback extends React.Component
     super(props);
     this.state = 
     {
-        style:
-        {
-            borderStyle: "solid"
-        },
         data:{ }
     }
     this.postMessage = this.postMessage.bind(this);
@@ -34,7 +30,7 @@ export default class Feedback extends React.Component
     render()
     {
         return(
-            <div style={this.state.style}>
+            <div>
                 <NavBar/>
                 <FeedbackForm postMessage={this.postMessage}/>
             </div>

@@ -9,10 +9,6 @@ export default class Login extends React.Component
     super(props);
     this.state = 
     {
-        style:
-        {
-            borderStyle: "solid"
-        },
         login: true,
         data:{ }
     }
@@ -30,7 +26,7 @@ export default class Login extends React.Component
     render()
     {
         return(
-            <div style={this.state.style}>
+            <div>
                 <NavBar/>
                 <LoginForm getUser={this.getUser}/>
                 <a href={"http://localhost:3000/register"}>Register</a>

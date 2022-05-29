@@ -20,10 +20,6 @@ export default class Forum extends React.Component
             video: "",
             rating: 1
         },
-        style:
-        {
-            borderStyle: "solid"
-        },
         data:{ }
     }
     this.setSelectedTechnique = this.setSelectedTechnique.bind(this);
@@ -76,7 +72,7 @@ export default class Forum extends React.Component
     {
         const page = "Forum";
         return(
-        <div style={this.state.style}>
+        <div>
             <NavBar page={page}/>
             <TechList apiUrl={this.props.apiUrl} setSelectedTechnique={this.setSelectedTechnique} getTechniques={this.getTopTechniques} page={page}/>
             <TechVideo videoUrl={this.props.apiUrl + "/technique/video/" + this.state.selectedTechnique.id}/>

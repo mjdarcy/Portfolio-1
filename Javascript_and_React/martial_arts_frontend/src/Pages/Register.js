@@ -9,10 +9,7 @@ export default class Register extends React.Component
     super(props);
     this.state = 
     {
-        style:
-        {
-            borderStyle: "solid"
-        }
+        
     }
     this.postUser = this.postUser.bind(this);
 }
@@ -35,7 +32,7 @@ export default class Register extends React.Component
     render()
     {
         return(
-            <div style={this.state.style}>
+            <div>
                 <NavBar/>
                 <RegisterForm postUser={this.postUser}/>
                 <a href={"http://localhost:3000/login"}>Login</a>

@@ -8,17 +8,13 @@ export default class About extends React.Component
     super(props);
     this.state = 
     {
-        style:
-        {
-            borderStyle: "solid"
-        }
     }
 }
 
     render()
     {
         return(
-        <div style={this.state.style}>
+        <div>
             <NavBar/>
             <p>About</p>
         </div>)

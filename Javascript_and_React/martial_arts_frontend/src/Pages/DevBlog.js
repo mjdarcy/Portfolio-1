@@ -9,10 +9,6 @@ export default class DevBlog extends React.Component
     super(props);
     this.state = 
     {
-        style:
-        {
-            borderStyle: "solid"
-        },
         data:[]
     }
 }
@@ -38,7 +34,7 @@ export default class DevBlog extends React.Component
     {
         let list = this.blogPostList().reverse();
         return(
-            <div style={this.state.style}>
+            <div>
                 <NavBar/>
                 {list}
             </div>

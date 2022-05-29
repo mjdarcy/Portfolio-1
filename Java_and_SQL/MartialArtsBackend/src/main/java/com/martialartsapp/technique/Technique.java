@@ -1,18 +1,10 @@
 package com.martialartsapp.technique;
 
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
-
-import javax.persistence.CascadeType;
 import javax.persistence.Entity;
-import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Lob;
-import javax.persistence.OneToMany;
-import org.springframework.web.multipart.MultipartFile;
 
 @Entity
 public class Technique {
@@ -36,19 +28,20 @@ public class Technique {
 		this.video = new byte[]{};
 	}
 	
-	public Technique(String creator, String name, String type, String description, MultipartFile video) 
+	public Technique(String creator, String name, String type, String description, byte[] video) 
 	{
 		this();
 		this.creator = creator;
 		this.name = name;
 		this.type = type;
 		this.description = description;
-		try { this.video = video.getBytes(); } catch (IOException e) { e.printStackTrace(); }
+		this.video = video;
 	}
-	
-	public Technique(String creator, String name, String type, String description, byte[] video) 
+
+	public Technique(Integer id, String creator, String name, String type, String description, byte[] video) 
 	{
 		this();
+		this.id = id;
 		this.creator = creator;
 		this.name = name;
 		this.type = type;
@@ -63,10 +56,9 @@ public class Technique {
 	public byte[] getVideo() { return this.video; }
 	public String getDescription() { return description; }
 
-	public void setVideo(byte[] video) { this.video = video; }
 	public void setId(Integer id) { this.id = id; }
 	public void setName(String name) { this.name = name; }
 	public void setType(String type) { this.type = type; }
-	public void setVideo(MultipartFile video) { try { this.video = video.getBytes(); } catch (IOException e) { e.printStackTrace();}}
+	public void setVideo(byte[] video) { this.video = video; }
 	public void setDescription(String description) { this.description = description; }
 }
